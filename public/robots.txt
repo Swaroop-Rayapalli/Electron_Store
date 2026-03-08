@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://electro-store.com/sitemap.xml
